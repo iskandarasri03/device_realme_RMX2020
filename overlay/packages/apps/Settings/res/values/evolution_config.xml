@@ -23,4 +23,9 @@
 
     <!-- Whether to show min refresh rate in display settings -->
     <bool name="config_show_min_refresh_rate_switch">true</bool>
+     
+     
+     <!-- ROM maintainer name -->
+    <string name="build_maintainer_summary">Iskandar Asri</string>
+
 </resources>
